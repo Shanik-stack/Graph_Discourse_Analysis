@@ -1,0 +1,38 @@
+Stance = -1
+  v_id 0: 0
+  v_id 1: 0
+  v_id 2: 0
+  v_id 3: 3
+  v_id 4: 0
+  v_id 5: 0
+  v_id 6: 5
+  v_id 7: 1
+  v_id 8: 4
+  v_id 9: 2
+  v_id 10: 0
+  v_id 11: 0
+  v_id 12: 0
+  v_id 13: 1
+  v_id 14: 0
+  v_id 15: 0
+  v_id 16: 2
+
+Stance = 1
+  v_id 0: 1
+  v_id 1: 0
+  v_id 2: 0
+  v_id 3: 0
+  v_id 4: 0
+  v_id 5: 0
+  v_id 6: 0
+  v_id 7: 0
+  v_id 8: 0
+  v_id 9: 0
+  v_id 10: 0
+  v_id 11: 0
+  v_id 12: 0
+  v_id 13: 0
+  v_id 14: 0
+  v_id 15: 0
+  v_id 16: 0
+

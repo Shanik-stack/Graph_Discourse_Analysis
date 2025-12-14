@@ -1,0 +1,2 @@
+DebateIdx	VertexCount	EdgeCount	TimeTaken(s)
+2	26	650	53.36
